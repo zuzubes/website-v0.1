@@ -4,7 +4,7 @@ import type React from "react"
 
 import { useState, useEffect } from "react"
 import Image from "next/image"
-import { Linkedin, Instagram, Globe, Home, PenTool, User, Lightbulb } from "lucide-react"
+import { Linkedin, Instagram, Globe, Home, PenTool, User, Lightbulb, Camera } from "lucide-react"
 import Link from "next/link"
 
 // Custom hook for responsive navigation
