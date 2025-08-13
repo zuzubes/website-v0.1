@@ -119,6 +119,11 @@ const navLinks = [
     icon: <User className="w-5 h-5" />,
     url: "/about",
   },
+  {
+    name: "Photography",
+    icon: <Camera className="w-5 h-5" />,
+    url: "/photography",
+  }
 ]
 
 export default function HomePage() {
