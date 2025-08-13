@@ -122,7 +122,8 @@ const navLinks = [
   {
     name: "Photography",
     icon: <Camera className="w-5 h-5" />,
-    url: "/photography",
+    url: "https://preview--berlin-bahn-vista.lovable.app/",
+    external: true,
   }
 ]
 
